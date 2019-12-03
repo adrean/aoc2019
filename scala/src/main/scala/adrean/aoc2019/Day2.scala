@@ -1,4 +1,4 @@
-package com.adrean.aoc2019
+package adrean.aoc2019
 
 object Day2 {
 

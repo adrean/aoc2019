@@ -1,7 +1,7 @@
-package com.adrean.aoc2019
+package adrean.aoc2019
 
 import scala.collection.mutable
-import com.adrean.aoc2019.utils.Distance._
+import adrean.aoc2019.utils.Distance._
 
 object Day3 {
 

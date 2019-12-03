@@ -1,4 +1,4 @@
-package com.adrean.aoc2019.utils
+package adrean.aoc2019.utils
 
 object Distance {
 
